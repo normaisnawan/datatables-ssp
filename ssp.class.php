@@ -13,7 +13,7 @@
  * side processing requirements of DataTables.
  *
  * @author DataTables - https://github.com/DataTables/DataTables
- * @mod Zercle Technology - https://github.com/zercle
+ * @mod Zercle Technology - https://github.com/zercle/datatables-ssp
  *
  * @license MIT - http://datatables.net/license_mit
  */
