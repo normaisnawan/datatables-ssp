@@ -1,12 +1,12 @@
 # datatables-ssp
 Customized Server Side Processing Class (ssp.class.php) For [Datatables](http://datatables.net/) Library
 
-# Additional features
+### Additional features ####
  - Add support join tables
  - Add debug SQL query
  - Add support for manually group by, order by
  
-### How to Use #####
+### How to Use ####
  
     $columns = [
         ['db' => 'table_a.id', 'as' => 'a_id', 'dt' => 'a_id'],
