@@ -32,7 +32,7 @@ Customized Server Side Processing Class (ssp.class.php) For [Datatables](http://
     ];
     
     $orderBy = [
-        'table_a.id',
+        'table_a.id DESC',
     ];
     
     $debug = true;
