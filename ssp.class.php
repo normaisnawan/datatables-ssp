@@ -315,7 +315,7 @@ class SSP
         if (empty($orderBy)) {
             $order = self::order($request, $columns);
         } else {
-            $order = self::_flatten($orderBy, ', ');
+            $order = 'ORDER BY ' . self::_flatten($orderBy, ', ');
         }
 
         $whereResult = self::_flatten($whereResult);
